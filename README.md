@@ -10,7 +10,7 @@ WET-BOEW wrapper for Esri Map Journals & Story Maps
 
 ## Latest generation Story Maps
 
-[NOAA Coastal Flooding](https://federal-geospatial-platform.github.io/wet-boew-story-map/storymap-en.html?lang=en&appid=4faf6d052c8f41b3b9b99c506642bca5&appidalt=795fa0328cb2497a8f960b5f3e8d2c7a])
+[Finding Lichen for Caribou](https://federal-geospatial-platform.github.io/wet-boew-story-map/storymap-en.html?lang=en&appid=2bb940b2d3bd4d94b5dea08169c12bf3&appidalt=7b855b7447dd4deaaa55525c2cfd2c7f])
 
 ---
 
@@ -24,4 +24,4 @@ Enveloppe WET-BOEW pour les journaux de cartes et les cartes d'histoire d'Esri.
 
 ## Dernière génération de cartes d'histoire
 
-[Inondations côtières de la NOAA](https://federal-geospatial-platform.github.io/wet-boew-story-map/storymap-fr.html?lang=fr&appid=795fa0328cb2497a8f960b5f3e8d2c7a&appidalt=4faf6d052c8f41b3b9b99c506642bca5)
+[Trouver du lichen pour le caribou](https://federal-geospatial-platform.github.io/wet-boew-story-map/storymap-fr.html?lang=fr&appid=7b855b7447dd4deaaa55525c2cfd2c7f&appidalt=2bb940b2d3bd4d94b5dea08169c12bf3)
